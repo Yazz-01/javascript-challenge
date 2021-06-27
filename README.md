@@ -7,8 +7,7 @@ JavaScript, HTML, and CSS, and D3.js as programming languages.
 
 The following link can take you to the website to try to look for the UFO´s reports, you can do your own research of UFO´s by clickling here:
 
-
-                                            https://yazz-01.github.io/javascript-challenge/
+https://yazz-01.github.io/javascript-challenge/
 
 
 This project has been built in JavaScript, HTML, and CSS, and D3.js code on creating a table dynamically based upon a dataset with UFO´s reports. This allow our users to filter the table data for specific values. 
